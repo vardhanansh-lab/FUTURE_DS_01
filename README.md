@@ -30,5 +30,5 @@ This project analyzes retail sales data using Power BI.
 
 \- Power BI
 
-!\[Dashboard](Dashboard.png)
+
 
