@@ -9,6 +9,7 @@ This project analyzes retail sales data using Power BI.
 **## Key Insights**
 
 
+
 \- Total sales are approximately $12.6M.
 
 \- Technology category generates the highest revenue.
@@ -24,7 +25,10 @@ This project analyzes retail sales data using Power BI.
 **## Tools Used**
 
 
+
 \- Excel
 
 \- Power BI
+
+!\[Dashboard](Dashboard.png)
 
